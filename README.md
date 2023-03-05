@@ -1,2 +1,0 @@
-# QuantumultX
-QuantumultX配置
