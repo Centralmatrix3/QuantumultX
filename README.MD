@@ -1,9 +1,9 @@
 ## QuantumultX配置
 **更新时间:2023.03.04 15:55**
 
-**QuantumultX自用[配置文件](https://raw.githubusercontent.com/Centralmatrix3/QuantumultX/QuantumultX/QuantumultX.Snippet)**
+**[QuantumultX自用配置文件](https://raw.githubusercontent.com/Centralmatrix3/QuantumultX/QuantumultX/QuantumultX.Snippet)**
 
-**QuantumultX自用[配置文件](https://raw.githubusercontent.com/Centralmatrix3/QuantumultX/QuantumultX/QuantumultX.conf)**
+**[QuantumultX自用配置文件](https://raw.githubusercontent.com/Centralmatrix3/QuantumultX/QuantumultX/QuantumultX.conf)**
 
 ## QuantumultX教程
 
