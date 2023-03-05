@@ -1,0 +1,4 @@
+HOST, cdn.auth0.com, OpenAI
+HOST, openaiapi-site.azureedge.net, OpenAI
+HOST-SUFFIX, openai.com, OpenAI
+HOST-SUFFIX, ai.com, OpenAI
