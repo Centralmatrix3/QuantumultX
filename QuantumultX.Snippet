@@ -202,14 +202,13 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 [rewrite_local]
 # > Sub-Store
 ^https?:\/\/sub\.store\/((download)|api\/(preview|sync|(utils\/node-info))) url script-analyze-echo-response https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-1.min.js
+
+# > Sub-Store
 ^https?:\/\/sub\.store url script-analyze-echo-response https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-0.min.js
 
 [rewrite_remote]
 # > 伟人会员集
 https://raw.githubusercontent.com/WeiRen0/Free1/main/Lsp.conf, tag=伟人会员集, update-interval=172800, opt-parser=false, enabled=true
-
-# > 伟人会员集
-# > 自行订阅集https://raw.githubusercontent.com/WeiRen0/NewFree/main/QuantumultX2#Profile=001
 
 # > 墨鱼会员集
 https://gist.githubusercontent.com/ddgksf/35a94372ae4271562f0139d8a80a94e5/raw/ForOwnUse.snippet, tag=墨鱼会员集, update-interval=172800, opt-parser=false, enabled=true
